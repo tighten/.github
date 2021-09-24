@@ -4,4 +4,4 @@
 
 ## Reporting a Vulnerability
 
-Please report potential security vulnerabilities to [matt@tighten.co](mailto:matt@tighten.co). All security vulnerabilities will be addressed promptly.
+Report potential security vulnerabilities to [matt@tighten.co](mailto:matt@tighten.co). All security vulnerabilities will be addressed promptly.

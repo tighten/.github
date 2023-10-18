@@ -6,7 +6,7 @@ At [Tighten](https://tighten.com) we are dedicated to building the best products
 
 ## Products
 
-Our open source products primarily focus improving the developer experience:
+Our open-source products primarily focus on improving the developer experience:
 
 - [Jigsaw](https://jigsaw.tighten.com) - Jigsaw is a framework for rapidly building static sites using the
 same modern tooling that powers your web applications.

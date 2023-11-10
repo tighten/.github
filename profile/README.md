@@ -1,4 +1,4 @@
-![Tighten Banner](banner.png)
+![Tighten Banner](https://raw.githubusercontent.com/tighten/.github/main/profile/banner.png)
 
 # Yup, we make software.
 

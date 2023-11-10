@@ -32,7 +32,7 @@ same modern tooling that powers your web applications.
 
 Matt Stauffer, our co-founder, wrote the canonical book on the Laravel framework, now in its **third** edition.
 
-<p align="center"><a href="https://laravelupandrunning.com" target="_blank"><img src="laravel-up-and-running.jpg" width="300"></a></p>
+<p align="center"><a href="https://laravelupandrunning.com" target="_blank"><img src="https://raw.githubusercontent.com/tighten/.github/main/profile/laravel-up-and-running.jpg" width="300"></a></p>
 
 ## Reach Out
 

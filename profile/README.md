@@ -1,12 +1,10 @@
-![Tighten Banner](banner.svg)
+![Tighten Banner](banner.png)
 
 # Yup, we make software.
 
 At [Tighten](https://tighten.com) we are dedicated to building the best products while contributing to the well-being of as many people as we can.
 
 ## Products
-
-Our open-source products primarily focus on improving the developer experience:
 
 - [Jigsaw](https://jigsaw.tighten.com) - Jigsaw is a framework for rapidly building static sites using the
 same modern tooling that powers your web applications.
